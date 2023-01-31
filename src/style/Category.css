@@ -1,0 +1,36 @@
+.category{
+    background-color: #d8dfe5 ;
+    background-image: linear-gradient(#fbf0e7, #d8dfe5, #c4bdbd,#fbf0e7);
+    display: flex;
+    /* flex-flow: column; */
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 1.7rem;
+}
+.category .category-header{
+    margin-bottom: 1rem;
+    font-size: 1.7rem;
+    
+}
+.category .category-form{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
+.category .category-form .catitem{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width:14%;
+    padding: 2rem;
+}
+
+
+/* category */
+.category-right{
+    display: flex;
+}
+.category-right .catitemh{
+    background-color: #fff;
+    margin: .5rem;
+}

@@ -1,0 +1,11 @@
+.Best{
+    text-align: center;
+    margin: 1rem;
+}
+.Bestforms{
+    display: flex;
+    flex-flow: row;
+}
+.Bestform{
+    width: 30%;
+}
